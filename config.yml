@@ -1,0 +1,23 @@
+title: Trae Blain
+baseurl: //traeblain.com/
+copywright: This work is licensed under a Creative Commons Attribution 4.0 International License.
+metaDataFormat: yaml
+author:
+  name: Trae Blain
+  commonname: traeblain
+
+mainMenu:
+  - identifier: blog
+    name: Notebook
+    url: /blog
+  - identifier: twitter
+    name: Twitter
+    url: https://twitter.com/traeblain
+    rel: me
+  - identifier: mastodon
+    name: Mastodon
+    url: https://social.lol/@trae
+    rel: me
+  - identifier: rss
+    name: RSS
+    url: /blog/index.rss
